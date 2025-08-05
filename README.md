@@ -44,7 +44,7 @@ __Link do jogo no Vercel:__ https://jogo-do-numero-secreto-black-eight.vercel.ap
 
 # 📂 Estrutura de Arquivos
 
-![Estrutura do projeto](./img/estrutura.png)  
+![Estrutura do projeto](./img/estruturaArquivos.png)  
 
 ***
 
