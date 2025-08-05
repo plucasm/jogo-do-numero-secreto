@@ -61,6 +61,6 @@ __Link do jogo no Vercel:__ https://jogo-do-numero-secreto-black-eight.vercel.ap
 
 Você pode facilmente modificar:
 
-* O intervalo de números (altere numeroLimite` no arquivo JS)
+* O intervalo de números (altere `numeroLimite` no arquivo JS)
 * As mensagens exibidas
 * O estilo visual no CSS
