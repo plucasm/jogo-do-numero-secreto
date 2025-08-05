@@ -44,14 +44,8 @@ __Link do jogo no Vercel:__ https://jogo-do-numero-secreto-black-eight.vercel.ap
 
 # 📂 Estrutura de Arquivos
 
-jogo-do-numero-secreto/
-├── index.html          # Estrutura principal
-├── style.css           # Estilos do jogo
-├── app.js              # Lógica do jogo
-└── img/                # Assets visuais
-    ├── ia.png          
-    ├── Ruido.png
-    └── code.png
+![Estrutura do projeto](./img/estrutura.png)  
+
 ***
 
 # 🎯 Regras do Jogo
